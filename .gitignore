@@ -7,3 +7,4 @@ lib/junit_4/
 lib/nblibraries.properties
 lib/CopyLibs
 dist
+target
